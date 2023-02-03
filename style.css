@@ -17,6 +17,10 @@ a {
     color: azure;
     font-size: 27px;
 }
+#para {
+    display: flex;
+    text-overflow: clip;
+}
 #prof1 {
     float: left;
     width: 50%;
