@@ -1,0 +1,49 @@
+* {
+    font-family: papyrus;
+}
+header ul,
+h1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+body {
+    color: azure;
+    background-color:rgb(150, 111, 96);
+    text-align: center;
+    margin-top: 30px;
+}
+a {
+    color: azure;
+    font-size: 27px;
+}
+#paraint {
+    display: flex;
+    flex-direction: center;
+}
+#prof1 {
+    float: left;
+    width: 50%;
+    scroll-margin-right: 70px;
+    padding-right: 15px;
+}
+main content {
+    font-size: 50px;
+}
+#experience1 {
+    border: solid azure;
+    margin-top: 50px;
+}
+#image1 {
+    margin-top: 50px;
+    box-shadow: 5px 5px 9px rgb(178, 71, 41);
+    display: flex;
+    align-items: flex-start;
+}
+footer {
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+}
