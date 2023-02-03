@@ -17,10 +17,6 @@ a {
     color: azure;
     font-size: 27px;
 }
-#paraint {
-    display: flex;
-    flex-direction: center;
-}
 #prof1 {
     float: left;
     width: 50%;
